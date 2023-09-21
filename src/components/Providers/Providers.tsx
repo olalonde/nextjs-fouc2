@@ -11,6 +11,6 @@ export default function Providers({
   children: ReactNode;
 }) {
   return (
-    <MantineProvider theme={theme}>{children}</MantineProvider>
+    <>{children}</>
   );
 }

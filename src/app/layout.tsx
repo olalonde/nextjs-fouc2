@@ -1,9 +1,7 @@
 import '@mantine/core/styles.css';
 
 import React from 'react';
-import { dir } from 'i18next';
 import Providers from '@/components/Providers/Providers';
-// import i18nConfig from '@/lingui.config.js';
 
 import { MainLayout } from '@/components/Layout/MainLayout';
 
